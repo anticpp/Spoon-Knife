@@ -14,4 +14,3 @@ add by supergui
 
 add by supergui shell
 
-3rd edition from web
