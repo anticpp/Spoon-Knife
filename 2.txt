@@ -14,3 +14,5 @@ aha 4
 aha 5
 
 aha 5 from terminal
+
+aha 6 from terminal
