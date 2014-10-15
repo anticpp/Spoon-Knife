@@ -2,3 +2,6 @@ hello
 hello
 hello
 hello
+hello 1 from terminal 
+hello 2 from web
+hello 3 from web
